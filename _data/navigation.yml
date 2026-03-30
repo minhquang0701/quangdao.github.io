@@ -23,6 +23,15 @@ main:
 
   - title: "Contact"
     url: /contact/
+  
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Contact"
+    url: /contact/
+
+  - title: "Blog"
+    url: /blog/
     
   # - title: "CV"
   #   url: /cv-json/

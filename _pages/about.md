@@ -16,14 +16,14 @@ My research interests broadly lie in NLP, LLM, and agent systems. I am intereste
 - Memory in LLMs: studying how models retain, select, and manage information over long interactions, including KV-cache optimization and memory-aware mechanisms.  
 - Training and inference methods: understanding how techniques such as steering vectors, calibration, and other intervention methods can better control model behavior during training or inference.  
 
+Previously, I was an undergraduate research intern in the SROP program at the University of Notre Dame, working under Professor Meng Jiang and mentored by Hy Dang on research in language model agent systems. I also worked under Dr. Xiangliang Zhang and Haomin Zhuang on Hands-On Data Science for Chemists, an open project focused on the use of data science, machine learning, and large language models in chemistry.  
+
+Before that, I was a machine learning intern at Rose-Hulman Ventures, where I worked on AI for surgical video analysis, and a software engineer intern at TAPTAP, where I built internal analytics and software tools.  
+
 News
 ======
 -- FIll inn
 
 Publication
 ======
--- FIll inn
-
-Contact
-------
 -- FIll inn
