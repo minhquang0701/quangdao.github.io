@@ -66,7 +66,7 @@ Publication
 
   <div style="flex:1;">
     <div style="font-size:1.45rem;font-weight:700;line-height:1.2;margin-bottom:10px;">
-      <a href="/files/replicatorbench.pdf" target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:#1565c0;">Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents</a>
+      <a target="_blank" rel="noopener noreferrer" style="text-decoration:none;color:#1565c0;">Open, Reliable, and Collective: A Community-Driven Framework for Tool-Using AI Agents</a>
     </div>
     <div style="line-height:1.7;margin-bottom:16px;">
       Hy Dang, Quang Dao, Meng Jiang
