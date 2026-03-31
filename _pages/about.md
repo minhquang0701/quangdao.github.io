@@ -29,21 +29,18 @@ News
       Presented at the <strong>Workshop Symposium at the University of Notre Dame</strong>, sharing work from my summer research.
     </div>
   </div>
-
   <div style="display: flex; align-items: flex-start; gap: 1.2rem;">
     <div style="min-width: 90px; font-weight: 600; white-space: nowrap;">May, 2025</div>
     <div style="line-height: 1.6;">
       Joined the <strong>SROP program at the University of Notre Dame</strong> and worked on research in LLM agent systems.
     </div>
   </div>
-
   <div style="display: flex; align-items: flex-start; gap: 1.2rem;">
     <div style="min-width: 90px; font-weight: 600; white-space: nowrap;">Dec, 2024</div>
     <div style="line-height: 1.6;">
       Accepted an offer from <strong>Rose-Hulman Ventures</strong> for a <strong>Machine Learning Engineer Internship</strong>.
     </div>
   </div>
-
   <div style="display: flex; align-items: flex-start; gap: 1.2rem;">
     <div style="min-width: 90px; font-weight: 600; white-space: nowrap;">Jun, 2024</div>
     <div style="line-height: 1.6;">
@@ -51,7 +48,8 @@ News
     </div>
   </div>
 </div>
-
+  
+  
 Publication
 ======
 
