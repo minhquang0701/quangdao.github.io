@@ -50,7 +50,7 @@ News
       Joined <strong>TAPTAP</strong> as a <strong>Software Engineer Intern</strong>, building internal analytics and software tools.
     </div>
   </div>
-</div>
+</div>  
 
 Publication
 ======
